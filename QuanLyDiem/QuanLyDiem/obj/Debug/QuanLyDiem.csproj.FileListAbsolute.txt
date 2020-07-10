@@ -1,0 +1,125 @@
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDanToc.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDiem.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmHeDaoTao.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmLop.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMonHoc.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmPhongHoc.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+C:\Users\ngoc\Downloads\QuanLyDiemSV-master (1)\QuanLyDiemSV-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojAssemblyReference.cache
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDanToc.resources
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDiem.resources
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmHeDaoTao.resources
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmLop.resources
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMonHoc.resources
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmPhongHoc.resources
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+C:\Users\Win\Documents\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojAssemblyReference.cache
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDanToc.resources
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDiem.resources
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmHeDaoTao.resources
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmLop.resources
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMonHoc.resources
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmPhongHoc.resources
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+C:\Users\Win\Documents\GitHub\QuanLyDiemSV\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDanToc.resources
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDiem.resources
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmHeDaoTao.resources
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmLop.resources
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMonHoc.resources
+C:\Users\ngoc\Downloads\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmPhongHoc.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDanToc.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmLop.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMonHoc.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmPhongHoc.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmSinhVien.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmHeDaoTao.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMain.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmChuyenNganh.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmThoiKhoaBieu.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmKhoa.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmQue.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmChucVu.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDiem.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.ResolveComReference.cache
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmTimKiem.resources
+D:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmInDSDiem.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.ResolveComReference.cache
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmChucVu.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmChuyenNganh.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDanToc.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDiem.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmHeDaoTao.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmInDSDiem.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmKhoa.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmLop.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMain.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMonHoc.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmPhongHoc.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmQue.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmSinhVien.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmThoiKhoaBieu.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmTimKiem.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
+E:\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Form1.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.ResolveComReference.cache
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csprojResolveAssemblyReference.cache
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Form1.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmChucVu.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmChuyenNganh.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDanToc.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmDiem.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmHeDaoTao.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmInDSDiem.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmKhoa.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmLop.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMain.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmMonHoc.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmPhongHoc.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmQue.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmSinhVien.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmThoiKhoaBieu.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.FrmTimKiem.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+E:\ban final finalllllllllllllllll\QuanLyDiem-master (3)\QuanLyDiem-master\QuanLyDiem\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.Cache
